@@ -12,7 +12,7 @@
     "better-sqlite3": "^7.1.1",
     "colors": "^1.4.0",
     "enmap": "^5.8.0",
-    "eris": "^0.13.3",
+    "eris": "^0.15.1",
     "figlet": "^1.4.0",
     "moment": "^2.27.0",
     "ms": "latest",
