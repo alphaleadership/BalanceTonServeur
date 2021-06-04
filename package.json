@@ -11,7 +11,7 @@
   "dependencies": {
     "better-sqlite3": "^7.1.1",
     "colors": "^1.4.0",
-    "enmap": "^5.8.0",
+    "enmap": "^5.8.5",
     "eris": "^0.13.3",
     "figlet": "^1.4.0",
     "moment": "^2.27.0",
