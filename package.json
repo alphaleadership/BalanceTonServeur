@@ -9,7 +9,7 @@
   "author": "ArviX#8443",
   "license": "ISC",
   "dependencies": {
-    "better-sqlite3": "^7.1.1",
+    "better-sqlite3": "^7.4.0",
     "colors": "^1.4.0",
     "enmap": "^5.8.0",
     "eris": "^0.13.3",
